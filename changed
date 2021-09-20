@@ -1,0 +1,5 @@
+in Sound.py
+
+class SoundsPlayer
+Deleted line to play audio in method load_file()
+"pg.mixer.music.load(file_path)"

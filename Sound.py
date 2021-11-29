@@ -34,9 +34,6 @@ class SoundsPlayer:
 
         # channel = client.get_channel(id)
 
-
-
-
     def load_file(self, file_path):
 
         try:
